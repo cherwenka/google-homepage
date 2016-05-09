@@ -30,3 +30,26 @@
 	opacity: 0.7;
 	border: none;
 }
+.navbar {
+	list-style-type: none;
+	position: absolute;
+	right: 20px;
+	top: 5px;
+	font-family: sans-serif;
+}
+li{
+	display: inline;
+	margin: 0 10px 0 0;
+}
+#grid {
+	height: 20px;
+	width: 20px;
+}
+#notifications {
+	height: 20px;
+	width: 20px;
+}
+#account {
+	height: 30px;
+	width: 30px;
+}
